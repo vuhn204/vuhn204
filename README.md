@@ -7,7 +7,7 @@
 - 🎓 Systems and Computer Engineering student at UTP, Lima (top 10% of my program)
 - 🏆 Top 7% of 8,758 submissions in GCI World 2026, University of Tokyo ([credit risk model](https://github.com/vuhn204/gci-credit-risk))
 - 🚀 Team lead at NASA Space Apps 2026 with [Phaxsi](https://phaxsi.vercel.app)
-- 🔥 Leading the data analysis subgroup at AENUP (UNMSM): 1.4M+ satellite fire records
+- 🔥 Led the data analysis subgroup at AENUP (UNMSM): 1.4M+ satellite fire records
 - 🌱 Currently building an ETA model for buses in Lima
 - 📫 Open to data and AI internships, in Lima or remote
 
